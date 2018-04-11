@@ -273,6 +273,7 @@ export default {
       left: 0;
       right: 0;
       width: 100%;
+      height: 100%;
       padding: 0.35rem 0.875rem;
       font-size: inherit;
       font-family: inherit;
